@@ -1,5 +1,5 @@
 # Login Page Setup
-
+![image alt](https://github.com/Dirojini/loginpage/blob/2ec93832eb33052321a92eab41a735c0c7f3df4c/Screenshot%202024-12-24%20110358.png)
 ## Overview
 A sleek and responsive login page crafted with HTML, CSS, and JavaScript, designed to ensure seamless user experience across all devices.
 
