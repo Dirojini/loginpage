@@ -17,12 +17,12 @@ A sleek and responsive login page crafted with HTML, CSS, and JavaScript, design
 ## Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/username/login-page.git
+   git clone https://github.com/Dirojini/loginpage.git
    ```
 
 2. **Navigate to the Project Directory**
    ```bash
-   cd login-page
+   cd loginpage
    ```
 
 3. **Launch the Page**
